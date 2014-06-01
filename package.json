@@ -1,6 +1,6 @@
 {
   "name": "simple-iso-countries",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple map of ISO 3166-2 common country names (in english) and alpha-2 codes",
   "main": "index.js",
   "scripts": {

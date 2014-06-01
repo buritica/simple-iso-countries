@@ -1,4 +1,4 @@
-## Simple Iso Countries
+## Simple ISO Countries
 
 A simple map of ISO 3166-2 common country names (in english) and alpha-2 codes
 
@@ -13,7 +13,7 @@ This module was originally an e-commerce site and for this reason some territori
 var countries = require('simple-iso-countries');
 
 function countryName(code) {
-  return countries[code]n;
+  return countries[code];
 }
 ```
 
