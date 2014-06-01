@@ -1,25 +1,25 @@
-  AQ: 'Australian Antarctic Territory',
-  AQ: 'Ross Dependency',
-  AQ: 'Peter I Island',
-  AQ: 'Queen Maud Land',
-  AQ: 'British Antarctic Territory',
-  AU: 'Ashmore and Cartier Islands',
-  AU: 'Coral Sea Islands',
-  AZ: 'Nagorno-Karabakh',
-  CY: 'Northern Cyprus',
-  GE: 'Abkhazia',
-  GE: 'South Ossetia',
-  GP: 'Saint Barthelemy',
-  GP: 'Saint Martin',
-  MD: 'Pridnestrovie (Transnistria)',
-  PF: 'Clipperton Island',
-  SO: 'Somaliland',
-  UM: 'Baker Island',
-  UM: 'Howland Island',
-  UM: 'Jarvis Island',
-  UM: 'Johnston Atoll',
-  UM: 'Kingman Reef',
-  UM: 'Midway Islands',
-  UM: 'Navassa Island',
-  UM: 'Palmyra Atoll',
-  UM: 'Wake Island',
+  - AQ - Australian Antarctic Territory
+  - AQ - Ross Dependency
+  - AQ - Peter I Island
+  - AQ - Queen Maud Land
+  - AQ - British Antarctic Territory
+  - AU - Ashmore and Cartier Islands
+  - AU - Coral Sea Islands
+  - AZ - Nagorno-Karabakh
+  - CY - Northern Cyprus
+  - GE - Abkhazia
+  - GE - South Ossetia
+  - GP - Saint Barthelemy
+  - GP - Saint Martin
+  - MD - Pridnestrovie (Transnistria)
+  - PF - Clipperton Island
+  - SO - Somaliland
+  - UM - Baker Island
+  - UM - Howland Island
+  - UM - Jarvis Island
+  - UM - Johnston Atoll
+  - UM - Kingman Reef
+  - UM - Midway Islands
+  - UM - Navassa Island
+  - UM - Palmyra Atoll
+  - UM - Wake Island
